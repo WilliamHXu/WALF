@@ -1,2 +1,2 @@
-# WALF
+# FLAW
 Welcome to the final group project - the TCP/IP chat a.k.a WALF. Every collaboration is welcome after our deadline (April 26 2019). Let's start our connection...
